@@ -160,4 +160,10 @@ footer ul {
     text-align: left;
     margin-right: auto;
   }
+
+  #intro {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 1rem;
+  }
 }
